@@ -1,4 +1,10 @@
 # My portfolio
+![](images/portfoliologo.jpeg)
+
+
+
+
+
 
 This is a portfolio project. The goal of this project is to display my current skillset. 
 The website itself is a project, but there are also projects linked within the webpage, all using different programming languages. 
