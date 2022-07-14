@@ -1,3 +1,4 @@
+![](images/portfiliologo.jpeg)
 
 
 This is a portfolio project. The goal of this project is to display my current skillset. 
